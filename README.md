@@ -2,9 +2,11 @@
 
 _A library of the rule tables and related source code for specific cellular automata. In the process we're developing an open file format of variables and transitions to capture the rules of various CA. Utilities for converting to and from these representations are included._
 
+**Update 4/29/2024**: A much larger and more recently maintained collection of Golly rule tables can now be found on the LifeWiki:
 
-**The repository now contains over 70 different CA rules!**
+  https://conwaylife.com/wiki/List_of_rule_tables_on_LifeWiki
 
+The contents of this repository may still be very useful in some cases, but should not be assumed to be up-to-date.
 
 ## Contents ##
 
